@@ -9,6 +9,13 @@
                 "git_main_file": "mettamorph.metta",
                 "extra_key": "nothing"
             }
+        ],
+        "example": [
+            {
+                "name": "example",
+                "version": "0.0.1",
+                "local_path": "localMods/example.metta"
+            }
         ]
     }
 }
